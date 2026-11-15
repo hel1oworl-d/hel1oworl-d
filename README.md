@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="assets/french_exit_logo.png" alt="French Exit Logo" width="220" />
-
   # 🍷 𝐡𝐞𝐥𝟏𝐨𝐰𝟎𝐫𝐥𝐝
 
   <p>
