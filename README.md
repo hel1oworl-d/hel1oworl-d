@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=D82845&center=true&vCenter=true&width=500&lines=Welcome+to+my+French+Exit+universe;Crafting+aesthetic+ricing+%26+clean+code;Lo-fi+beats+%26+crimson+accents;Arch+Linux+%2B+Hyprland+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=D82845&center=true&vCenter=true&width=650&lines=I+think+about+her+pantyhose;Before+you+start+to+hate+yourself+why+not+let+someone+else;Because+love+can+burn+like+a+cigarette;Just+another+girl+in+another+song;Her+and+her+friends+they+never+go+home;Are+you+sitting+all+alone+or+did+you+find+someone+new" alt="TV Girl - French Exit" />
 </div>
 
 ---
