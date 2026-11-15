@@ -3,7 +3,7 @@
   # 🍷 𝐡𝐞𝐥𝟏𝐨𝐰𝟎𝐫𝐥𝐝
 
   <p>
-    <em>«Your girlfriend looks like a girl I used to know...»</em>
+    <em>«Before you start to hate yourself...»</em>
   </p>
 
   <p>
