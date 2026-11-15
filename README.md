@@ -45,14 +45,6 @@
 
 ---
 
-### 🎨 Colorway & Palette
-
-| Crimson Red | Warm Accent | Muted Rose | Deep Graphite | Dark Velvet | Cream UI |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| `![#D82845](https://via.placeholder.com/15/D82845/000000?text=+) #D82845` | `![#DD4A4A](https://via.placeholder.com/15/DD4A4A/000000?text=+) #DD4A4A` | `![#F47189](https://via.placeholder.com/15/F47189/000000?text=+) #F47189` | `![#141113](https://via.placeholder.com/15/141113/000000?text=+) #141113` | `![#221B1E](https://via.placeholder.com/15/221B1E/000000?text=+) #221B1E` | `![#EBE6E6](https://via.placeholder.com/15/EBE6E6/000000?text=+) #EBE6E6` |
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
