@@ -28,23 +28,6 @@
 
 ---
 
-### 🌹 About Me & My Space
-
-```ansi
-[1;31m╭─ hel1ow0rld@french-exit[0m
-[1;31m╰─❯[0m OS: Arch Linux / Wayland
-[1;31m╰─❯[0m WM: Hyprland (French Exit Edition)
-[1;31m╰─❯[0m Shell: Fish / Terminal: Kitty
-[1;31m╰─❯[0m Palette: Crimson Red (`#D82845`), Muted Rose (`#F47189`), Deep Graphite (`#141113`)
-[1;31m╰─❯[0m Sound: TV Girl — French Exit (2014)
-```
-
-- 🎨 **Current focus:** Ricing, UI aesthetic customization & Linux workflow automation.
-- 🥀 **Featured Project:** [FrenchExit-dots](https://github.com/hel1oworl-d/FrenchExit-dots) — full aesthetic Hyprland setup inspired by TV Girl.
-- 💬 **Get in touch:** `romkastupnikov98@gmail.com`
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
