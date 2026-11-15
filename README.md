@@ -48,8 +48,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hel1oworl-d&theme=dark&background=141113&ring=D82845&fire=F47189&currStreakNum=EBE6E6&sideNums=EBE6E6&currStreakLabel=D82845&sideLabels=A43536&border=A43536&dates=888888" alt="Streak Stats" />
 </div>
 
-<br/>
 
-<div align="center">
-  <sub>Made with 🌹 inspired by <b>French Exit</b></sub>
-</div>
