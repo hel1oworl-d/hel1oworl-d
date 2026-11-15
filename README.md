@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hel1oworl-d&show_icons=true&theme=rose_pine&bg_color=141113&title_color=D82845&icon_color=F47189&text_color=EBE6E6&border_color=A43536&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hel1oworl-d&show_icons=true&bg_color=141113&title_color=D82845&icon_color=F47189&text_color=EBE6E6&border_color=A43536&hide_border=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hel1oworl-d&theme=dark&background=141113&ring=D82845&fire=F47189&currStreakNum=EBE6E6&sideNums=EBE6E6&currStreakLabel=D82845&sideLabels=A43536&border=A43536&dates=888888" alt="Streak Stats" />
 </div>
 
