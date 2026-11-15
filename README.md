@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Fish_Shell-D82845?style=flat-square&logo=fish&logoColor=white" />
   <img src="https://img.shields.io/badge/Kitty-221B1E?style=flat-square&logo=gnometerminal&logoColor=F47189" />
   <img src="https://img.shields.io/badge/Waybar-141113?style=flat-square&logo=wayland&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
